@@ -4,5 +4,5 @@ numpy==1.25.0
 scikit-learn==1.2.2
 python-dotenv==1.0.0
 selenium==4.21.0
-webdriver-manager==4.8.3
+webdriver-manager==4.8.2 
 tqdm==4.65.0
