@@ -55,6 +55,3 @@ This project involves extracting relevant data from the aluminium industry, conv
    ```bash
    streamlit run app.py
 
-
-Access the Application:
-Open your web browser and go to https://actalystai.streamlit.app/.
